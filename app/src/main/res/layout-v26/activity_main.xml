@@ -40,13 +40,12 @@
         android:layout_height="55dp"
         android:layout_marginTop="96dp"
         android:layout_marginEnd="16dp"
-        android:ems="10"
         android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/enter_username"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
-        android:hint="@string/enter_username"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton2"
-        tools:targetApi="o" />
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2" />
 
     <EditText
         android:id="@+id/editText4"
@@ -56,11 +55,10 @@
         android:layout_marginEnd="21dp"
         android:autofillHints=""
         android:ems="10"
-        android:inputType="textPassword"
         android:hint="@string/enter_password"
+        android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText3"
-        tools:targetApi="o" />
+        app:layout_constraintTop_toBottomOf="@+id/editText3" />
 
     <Button
         android:id="@string/b"

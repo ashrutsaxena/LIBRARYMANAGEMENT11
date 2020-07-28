@@ -6,4 +6,12 @@
     <string name="text">text</string>
     <string name="texts">texts</string>
     <string name="b">button</string>
+    <string name="library_management">LIBRARY MANAGEMENT</string>
+    <string name="todo">TODO</string>
+    <string name="username2">username</string>
+    <string name="enter_username">enter username</string>
+    <string name="log_in">LOG IN</string>
+    <string name="enter_password">enter password</string>
+    <string name="register">REGISTER</string>
+    <string name="password">password</string>
 </resources>
