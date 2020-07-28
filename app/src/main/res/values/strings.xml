@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LIBRARYMANAGEMENT11</string>
+    <string name="username">username</string>
+    <string name="main">main</string>
+    <string name="mains">mains</string>
+    <string name="text">text</string>
+    <string name="texts">texts</string>
+    <string name="b">button</string>
 </resources>
